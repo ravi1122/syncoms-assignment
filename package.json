@@ -6,7 +6,7 @@
   "repository": {
     "type": "git"
   },
-  "author": "Ravi Ranjan
+  "author": "Ravi Ranjan",
   "dependencies": {
     "babel-loader": "^8.0.5",
     "babel-preset-react-app": "^7.0.0",
