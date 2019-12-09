@@ -4,10 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/deepaksalve/react-min.git"
+    "type": "git"
   },
-  "author": "Deepak Salve <deepaksalve219@gmail.com>",
+  "author": "Ravi Ranjan
   "dependencies": {
     "babel-loader": "^8.0.5",
     "babel-preset-react-app": "^7.0.0",
